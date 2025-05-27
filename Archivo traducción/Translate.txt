@@ -836,7 +836,7 @@ You can see all the available listings on the whiteboard to your left.=Puedes ve
 If you want to drive through here, I'll need to search your vehicle.=Si quieres pasar por aquí, necesitaré registrar tu vehículo.
 You need to park your car nearby for me to search it.=Estaciona tu coche cerca para que pueda registrarlo.
 Huh?!=Eh?
-Hey friend, you're new, right? Nice to see a fresh face in town.=Ey amigo, ¿eres nuevo, no? Me alegra ver una cara nueva en el pueblo.
+Hey friend, you're new, right? Nice to see a fresh face in town.=Ey ¿eres nuevo, no? Me alegra ver una cara nueva en el pueblo.
 I'm Dan, I run this here hardware store. What line of work are you in?=Soy Dan, llevo esta ferretería. ¿A qué te dedicas?
 You wanna try minding your own business?=¿Por qué no intentas meterte en tus propios asuntos?
 Drug dealer=Soy camello
@@ -2183,7 +2183,7 @@ Mixing in progress...=Mezcla en progreso
 You crazy? No thanks=Estás loco? 
 r:(\d+) mins remaining=$1 min faltantes
 r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Cuando estés listo, por favor deposita $1 en mi caja - tu deuda aún no está saldada.
-r:"I'm still currently waiting on a payment of <color=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Please deposit it into my stash box when you've got a chance."=Todavía estoy esperando un pago de $ <color\=#54E717>$1</color>. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
+r:"I'm still currently waiting on a payment of <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Please deposit it into my stash box when you've got a chance."=Todavía estoy esperando un pago de $ <color\=#54E717>$1</color>. Por favor, deposítalo en mi caja cuando tengas la oportunidad.
 Arghh fine. What time?=Arghh bien. Hora?
 Hmm ok. What time?=Hmm ok. A qué hora?
 r:I've received (.*) cash from you. Your debt is now paid off.=He recibido <color\=#54E717>$1</color> en efectivo. Tu deuda ahora está saldada.
