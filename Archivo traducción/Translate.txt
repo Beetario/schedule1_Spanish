@@ -941,6 +941,7 @@ You can pay off your debt by placing cash in my stash. It's on the west face of 
 You can pay off your debt by placing cash in my stash. It's behind the Church.=Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Iglesia.
 Shirley Watts's Stash=Escondite de Shirley Watts
 Salvador Moreno's Stash=Escondite de Salvador Moreno
+Albert Hoover's Stash=Escondite de Albert Hoover
 r:"^You owe Shirley Watts <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Le debes $<color\=#54E717>$1</color> a Shirley Watts. Inserta dinero y sal del escondite para saldar tu deuda.
 r:"^You owe Salvador Moreno <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Le debes $<color\=#54E717>$1</color> a Salvador Moreno. Inserta dinero y sal del escondite para saldar tu deuda.
 View Salvador Moreno's stash=Ver el escondite de Salvador Moreno
@@ -2440,6 +2441,7 @@ Standard Cocaine=Cocaína estándar
 Poor Cocaine=Cocaína de baja calidad
 Premium Cocaine=Cocaína premium
 (Hold) Snort=(Mantener) Aspirar
+Behind motel office=Detrás de la oficina del motel
 
 r:(.*), Behind Thompson construction and demolition=$1, Detrás de la construcción y demolición Thompson  
 r:(.*), Behind Sauerkraut Supreme Pizzeria=$1, Detrás de la pizzería Sauerkraut Supreme  
@@ -3491,3 +3493,10 @@ r:Docks Warehouse (.*)\/(.*)=Almacen de los muelles $1/$2
 r:Bungalow (.*)\/(.*)=Bungaló $1/$2
 Search items...=Buscar productos...
 Bed=Cama
+Community Vote=Votación comunitaria
+ACTIVE=ACTIVA
+What do you want to see in the next major Schedule I update?=¿Qué te gustaría ver en la próxima gran actualización de Schedule I?
+Rival Cartel=Cartel Rival
+Police Expansion=Expansión Policial
+Click and hold an option to cast your vote=Haz clic y mantén presionada una opción para votar
+Your vote has been recorded. Thank you!=Tu voto ha sido registrado. Gracias!
