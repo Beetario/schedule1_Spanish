@@ -850,8 +850,8 @@ Much appreciated.=Muy agradecido.
 Q=Q
 On your way.=Te dejo seguir.
 Pick up Baseball Bat=Recoger el bate de Baseball
-You're almost ready to go, but you're missing one key ingredient - <color=#4CB0FF>weed seeds</color>.=Estás casi listo para comenzar, pero te falta un ingrediente clave: <color=#4CB0FF>semillas de weed</color>.
-You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Tendrás que hablar con un proveedor para conseguir algunas semillas. Le pasé tu número a <color=#4CB0FF>Albert Hoover</color>, el proveedor local de semillas de weed.
+You're almost ready to go, but you're missing one key ingredient - <color=#4CB0FF>weed seeds</color>.=Estás casi listo para comenzar, pero te falta un ingrediente clave: <color=#4CB0FF>semillas de marihuana</color>.
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Tendrás que hablar con un proveedor para conseguir algunas semillas. Le pasé tu número a <color=#4CB0FF>Albert Hoover</color>, el proveedor local de semillas de marihuana.
 Send him a <color=#4CB0FF>message</color> and request a <color=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Mándale un <color=#4CB0FF>mensaje</color> y pide una <color=#4CB0FF>entrega secreta</color>. Me he hecho responsable por ti, así que no tendrás que pagar por adelantado. Tu pedido irá a tu cuenta, y podrás pagar más adelante.
 Order 1x OG Kush Seed from Albert Hoover=Ordena 1x semilla de OG Kush a Albert Hoover
 Place the grow tent and fill it with soil=Coloca la tierra de cultivo y llénala de tierra
