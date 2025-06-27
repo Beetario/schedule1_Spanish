@@ -149,7 +149,7 @@ Schedule I was unable to verify file write access; this might result in errors w
 Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Está bien, estás limpio. Suerte la tuya esta vez, supongo. Pero sé que tú y tu tío traman algo en ese rancho.
 You better watch your back - this town won't tolerate scum like you for much longer...=Será mejor que mires por encima del hombro — esta ciudad no tolerará escoria como tú por mucho tiempo...
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendrás que enfrentarte a patrullas, cacheos, controles vehiculares, toques de queda, y más.
-Your best bet for getting the tools you need is the <color=#4CB0FF>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color=#4CB0FF>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
+Your best bet for getting the tools you need is the <color\=#4CB0FF>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=Tu mejor opción para conseguir las herramientas que necesitas es el <color\=#4CB0FF>almacén.</color> Es el lugar local donde puedes hacer negocios con... personas de ideas afines. Armas, equipo especializado, trabajadores en alquiler, todo lo bueno.
 Greetings mate, welcome to Hyland Auto. Come talk to me if you're interested in acquiring one of my fine automobiles.=Saludos, bienvenido a Hyland Auto. Ven a hablar conmigo si te interesa adquirir uno de mis excelentes automóviles.
 View fix instructions=Ver instrucciones de corrección
 Welcome to Hyland Auto. What can I do for you?= Bienvenido a Hyland Auto. ¿En qué te ayudo?
@@ -550,7 +550,7 @@ Church=Iglesia
 Handy Hank's\nHardware=Ferretería de\nHank
 Handy Hank's Hardware=Ferretería de Hank
 Courthouse=Tribunal
-Great. It'll be <color=#54E717>$75</color> for the week, ok?=Genial. Serán <color=#54E717>$75</color> por la semana, ¿vale?  
+Great. It'll be <color\=#54E717>$75</color> for the week, ok?=Genial. Serán <color\=#54E717>$75</color> por la semana, ¿vale?  
 Thank you. You're in Room 1, closest to the office.=Gracias. Estás en la Habitación 1.  
 Bleuball\nBoutique=Boutique\nBleuball
 Rays Realty=Inmobiliaria de Ray
@@ -850,9 +850,9 @@ Much appreciated.=Muy agradecido.
 Q=Q
 On your way.=Te dejo seguir.
 Pick up Baseball Bat=Recoger el bate de Baseball
-You're almost ready to go, but you're missing one key ingredient - <color=#4CB0FF>weed seeds</color>.=Estás casi listo para comenzar, pero te falta un ingrediente clave: <color=#4CB0FF>semillas de weed</color>.
-You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Tendrás que hablar con un proveedor para conseguir algunas semillas. Le pasé tu número a <color=#4CB0FF>Albert Hoover</color>, el proveedor local de semillas de weed.
-Send him a <color=#4CB0FF>message</color> and request a <color=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Mándale un <color=#4CB0FF>mensaje</color> y pide una <color=#4CB0FF>entrega secreta</color>. Me he hecho responsable por ti, así que no tendrás que pagar por adelantado. Tu pedido irá a tu cuenta, y podrás pagar más adelante.
+You're almost ready to go, but you're missing one key ingredient - <color\=#4CB0FF>weed seeds</color>.=Estás casi listo para comenzar, pero te falta un ingrediente clave: <color\=#4CB0FF>semillas de marihuana</color>.
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Tendrás que hablar con un proveedor para conseguir algunas semillas. Le pasé tu número a <color\=#4CB0FF>Albert Hoover</color>, el proveedor local de semillas de marihuana.
+Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Mándale un <color\=#4CB0FF>mensaje</color> y pide una <color\=#4CB0FF>entrega secreta</color>. Me he hecho responsable por ti, así que no tendrás que pagar por adelantado. Tu pedido irá a tu cuenta, y podrás pagar más adelante.
 Order 1x OG Kush Seed from Albert Hoover=Ordena 1x semilla de OG Kush a Albert Hoover
 Place the grow tent and fill it with soil=Coloca la tierra de cultivo y llénala de tierra
 Hiya there, can I help you with something?=Hola, ¿puedo ayudarte con algo?
@@ -1025,7 +1025,7 @@ No, not right now=No, no ahora
 Thanks for shopping with Oscar=Gracias por comprar con Oscar
 Hey there=Hola
 No thanks bro=No, gracias, hermano
-Talk to 'U.N.' at a payphone=Habla con 'U.N.' en un teléfono público
+Talk to 'U.N.' at a payphone=Habla con 'T.N.' en un teléfono público
 Goddamn, that's nice!! I'll message you later=¡Maldita sea, eso está genial!! Te mando un mensaje después
 Nice=Genial
 Gross!=Asco!
@@ -1086,8 +1086,8 @@ Buy 1x grow tent=Compra 1x carpa de cultivo
 • Buy 1x soil=• Comprar 1x tierra
 • Buy 1x grow tent=• Comprar 1x carpa de cultivo
 • Buy 1x watering can=• Comprar 1x regadera
-There are two types of currency: <color=#46CB4F>cash</color> and <color=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card.=Hay dos tipos de dinero: <color=#46CB4F>efectivo</color> y <color=#88CBFF>saldo en línea</color>. Los clientes pagan en efectivo, pero la mayoría de las tiendas legales solo aceptan tarjeta.
-Visit an <color=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <color=#88CBFF>cajero automático</color> para depositar o retirar efectivo.
+There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card.=Hay dos tipos de dinero: <color\=#46CB4F>efectivo</color> y <color\=#88CBFF>saldo en línea</color>. Los clientes pagan en efectivo, pero la mayoría de las tiendas legales solo aceptan tarjeta.
+Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <color\=#88CBFF>cajero automático</color> para depositar o retirar efectivo.
 Select amount to withdraw=Selecciona el monto a retirar
 r:WITHDRAW (.+)$=RETIRAR $1 
 r:You have withdrawn (.+)$=Has retirado $1 
@@ -1161,7 +1161,7 @@ Botanist (planting, plant maintenance, harvesting)=Botánico (plantando, manteni
 Handler (packaging, moving items)=Manipulador (embalaje, movimiento de objetos)
 Chemist (chemistry station, lab oven, cauldron, mixing station)=Químico (estación química, horno de laboratorio, caldero, estación de mezcla)
 Where you do want them? Keep in mind you'll have to provide a bed for this employee.=Dónde lo quieres? Ten en cuenta que le deberás proporcionar una cama.
-sr:"^That'll be a <color=#54E717>$(\d{1,3}(?:,\d{3})?)</color> signing free, and the employee's daily wage will be <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color>.$"=Será una tarifa de firma de <color=#54E717>$1</color>, y el salario diario del empleado será de <color=#54E717>$2</color>.
+sr:"^That'll be a <color\=#54E717>$(\d{1,3}(?:,\d{3})?)</color> signing free, and the employee's daily wage will be <color\=#54E717>$(\d{1,3}(?:,\d{3})*)</color>.$"=Será una tarifa de firma de <color\=#54E717>$1</color>, y el salario diario del empleado será de <color\=#54E717>$2</color>.
 Cheers. I'll send your new employee over to your property now. I'm also giving you a clipboard, which you can use to manage your employees and equipment.=Gracias. Enviaré a tu nuevo empleado a tu propiedad ahora. También te daré una carpeta de gestión, que puedes usar para administrar a tus empleados y equipos.
 Cheers. I'll send your new employee over to your property now.=Gracias. Enviaré a tu nuevo empleado a tu propiedad ahora.
 ##Empleados##
@@ -1223,8 +1223,8 @@ Open briefcase=Abrir maletín
 Briefcase=Maletín
 r:"^Assigned to (.+)$"=Asignado a $1
 r:"^(.+)'s Briefcase$"=Maletín de $1
-sr:^(.+) will draw his daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this locker$=$1 retirará su salario diario de <color=#54E717>$2</color> de este armario.
-sr:^(.+)$ will draw her daily wage of <color=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this locker=$1 retirará su salario diario de <color=#54E717>$2</color> de este armario.
+sr:^(.+) will draw his daily wage of <color\=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this locker$=$1 retirará su salario diario de <color\=#54E717>$2</color> de este armario.
+sr:^(.+)$ will draw her daily wage of <color\=#54E717>$(\d{1,3}(?:,\d{3})*)</color> from this locker=$1 retirará su salario diario de <color\=#54E717>$2</color> de este armario.
 Any=Cualquiera
 ^Harvested product will be automatically moved to the destination by the assigned botanist=^El producto cosechado será automáticamente movido al destino por el botánico asignado.
 Additive 3=Aditivo 3
@@ -1313,7 +1313,7 @@ Drop seed into hole=Suelta la semilla en el agujero
 r:Click soil chunks to bury seed (.)/(.*)=Haz clic en los trozos de tierra para enterrar la semilla $1/$2
 Already contains seed=Ya contiene una semilla
 Water the seed=Riega la semilla
-Head to locker when you're ready=Ve al armario cuando estés listo
+Head to bed when you're ready=Ve a la cama cuando estés listo
 
 You can place cash in my locker.=Puedes colocar dinero en mi armario.
 
@@ -1858,7 +1858,7 @@ Save game=Guardar
 BODY SEARCH=Inspección
 Officer=Policia
 Police curfew starting soon= El toque de queda empezará pronto
-I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=He oído que estás en problemas. Mejor no hables por tu teléfono móvil. Ve a buscar un teléfono público. - U.N.
+I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone. - U.N.=He oído que estás en problemas. Mejor no hables por tu teléfono móvil. Ve a buscar un teléfono público. - T.N.
 Long-Life Soil=Tierra+
 Extra Long-Life Soil=Tierra++
 Extra long-lasting soil that can be used to grow 3 plants before expiring.=Tierra de alta durabilidad+, te permite plantar hasta 3 veces más!
@@ -1907,7 +1907,7 @@ Resume=Reanudar
 Shirley Watts=Shirley Watts
 Hello, our mutual friend has asked me to help you acquire some Marijuana seeds.=Hola, nuestro amigo en común me ha pedido que te ayude a conseguir algunas semillas de marihuana.
 Salvador Moreno=Salvador Moreno
-Dead drops take time to fulfill, depending on the size of the order. The supplier will <color=#88CBFF>message you</color> when it's ready.=<size=14>Las entregas secretas tardan un poco en completarse, dependiendo del tamaño del pedido. El proveedor <color=#88CBFF>te enviará un mensaje</color> cuando esté listo.</size>
+Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready.=<size=14>Las entregas secretas tardan un poco en completarse, dependiendo del tamaño del pedido. El proveedor <color\=#88CBFF>te enviará un mensaje</color> cuando esté listo.</size>
 Play Ride the Bus=Jugar a Ride the Bus
 Albert Hoover=Albert Hoover
 BET MULTIPLIER=Multiplicador de apuesta
@@ -2058,8 +2058,9 @@ Needin' the Green=Necesito el verde
 Packagers=Empaquetador
 sr:"Hey, that drop is ready in (.+)$"=Oye, esa entrega está lista en $1.
 sr:"I need a dead drop:\n(\d+x) (.+)$"=<size=30>Necesito una entrega secreta:\n$1 $2</size>|
-I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- U.N.
+I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- T.N.
 Copy. I'll message you when it's ready in about 5 hours.=Okay. Te enviaré un mensaje cuando esté listo dentro de 5 horas.
+Copy. I'll message you when it's ready in about 1 hour.=Okay. Te enviaré un mensaje cuando esté listo dentro de 1 hora.
 I need a dead drop:\n10x Low-Quality Pseudo=Necesito una entrega: Fármaco de baja calidad
 Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Heyo - Si estás buscando mercancia, ahora estoy haciendo entregas.\nen la aplicación de entregas para que compres y te llegue.
 Okay. I'll be in the west construction site for the next 6 hours.=Bueno. Estaré en el sitio de construcción del oeste dentro de 6 horas.
@@ -2344,17 +2345,17 @@ It's the big brick building behind the liquor store. Head down there and see if 
 [Make an offer]=[Haz una oferta]
 Follow me, I need to grab it first=Sígueme, necesito ir a recogerlo primero
 Get out of here=Lárgate de aquí
-sr:"^That'll be <color=#54E717>$(\d{1,3}(?:,\d{3}))</color> for the (.+). We got a deal, partner?"=Serán $<color=#54E717>$1</color> por el $2. Tenemos un trato, socio?
+sr:"^That'll be <color\=#54E717>$(\d{1,3}(?:,\d{3}))</color> for the (.+). We got a deal, partner?"=Serán $<color\=#54E717>$1</color> por el $2. Tenemos un trato, socio?
 Here's my range of ammo, what sort do you need?=Aquí tienes mi gama de munición, cuál necesitas?
 Here's my selection of melee weapons, let me know what catches your eye.=Aquí está mi selección de armas cuerpo a cuerpo, dime cuál te llama la atención.
-If you want to convert more cash to online balance, you're gonna need to start <color=#88CBFF>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color=#88CBFF>lavar dinero</color>.
+If you want to convert more cash to online balance, you're gonna need to start <color\=#88CBFF>laundering</color>.=Si quieres convertir más dinero en efectivo a saldo en línea, vas a tener que empezar a <color\=#88CBFF>lavar dinero</color>.
 Laundering involves using a legal business to conceal the origin of your less-than-legal cash.=Lavar dinero implica usar un negocio legal para ocultar el origen de tu dinero no tan legal.
-First thing's first, you're gonna need a business. Go check out <color=#88CBFF>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color=#88CBFF>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
+First thing's first, you're gonna need a business. Go check out <color\=#88CBFF>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Lo primero es lo primero, vas a necesitar un negocio. Ve a echar un vistazo a <color\=#88CBFF>Rays Realty</color>. Probablemente no vayas a comprar el casino pronto, pero debería haber un negocio barato en venta.
 Purchase a business at Ray's Realty=Compra un negocio en Rays Realty
 Alright then. You know where to find me if you change your mind.=Muy bien entonces. Sabes dónde encontrarme si cambias de opinión.
 The drop is ready. You can find it on the pawn shop west wall=La entrega está lista. Puedes encontrarla en la pared oeste de la casa de empeños.
 The Laundromat=La Lavandería  
-Alright, I'll be a dealer for you but there is a <color=#54E717>$(\d{1,3}(?:,\d{3}))</color> signing fee, and I'll take a <color=#54E717>(.+)%</color> cut of each sale. We got a deal?=Está bien, seré tu distribuidor, pero hay una tarifa de inscripción de $<color=#54E717>$1</color>, y tomaré un $2% de comisión por cada venta. ¿Tenemos trato?
+Alright, I'll be a dealer for you but there is a <color\=#54E717>$(\d{1,3}(?:,\d{3}))</color> signing fee, and I'll take a <color\=#54E717>(.+)%</color> cut of each sale. We got a deal?=Está bien, seré tu distribuidor, pero hay una tarifa de inscripción de $<color\=#54E717>$1</color>, y tomaré un $2% de comisión por cada venta. ¿Tenemos trato?
 The Post Office=La Oficina de Correos  
 The Car Wash=El Autolavado  
 Taco Ticklers=Taco Ticklers
@@ -2518,7 +2519,7 @@ sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{
 sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hola bro, quiero <b>$1</b> de <b>$2</b> ? Pago $<color\=#46CB4F>$3</color>.
 sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
 
-sr:"Hey I heard about u from Nelson. He said u could hook me up with (\d+x) (.+)\. Ill pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. We got a deal\?"=Oye escuché de ti por Nelson. Dijo que podrías conseguirme <b>$1</b> <b>$2</b>. Pago $<color=#46CB4F>$3</color>. trato?
+sr:"Hey I heard about u from Nelson. He said u could hook me up with (\d+x) (.+)\. Ill pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. We got a deal\?"=Oye escuché de ti por Nelson. Dijo que podrías conseguirme <b>$1</b> <b>$2</b>. Pago $<color\=#46CB4F>$3</color>. trato?
 Counter-offer=Contra oferta
 
 Finally=Por fin
@@ -2787,7 +2788,7 @@ r:"^(\d+) possession of low-severity drug$"=$1 en posesión de drogas de baja gr
 r:"^(\d+) assault$"=$1 agresión  
 r:"^(\d+) evading arrest$"=$1 evasión de arresto  
 sr:"'(.+)' REGION MUST BE UNLOCKED?$"=LA REGIÓN '$1' DEBE SER DESBLOQUEADA
-North arcade wall=Muro norte de la galería
+North arcade wall=Muro norte del Arcade
 on the north exterior wall of the arcade=en el muro exterior norte de la galería
 Your drop is ready. Grab it behind <b>(.+)</b>=Listo! Recógela detrás de <b>\1</b>.
 sr:"The drop is ready. You can find it (.+)$"=Listo! Puedes encontrarla $1.
@@ -2881,7 +2882,7 @@ You can find it stashed near the <color\=#88CBFF>town hall fountain, in the cana
 • Collect the stash behind the supermarket=• Recoge el alijo detrás del supermercado  
 Collect the stash behind the supermarket=Recoge el alijo detrás del supermercado
 Behind the supermarket=Detrás del supermercado
-There is a <color=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color=#F86266>arrest</color> you if you're seen outside.=Hay un <color=#F86266>toque de queda obligatorio</color> entre las 9PM y las 5AM. La policía te <color=#F86266>arrestará</color> si te ve afuera.
+There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside.=Hay un <color\=#F86266>toque de queda obligatorio</color> entre las 9PM y las 5AM. La policía te <color\=#F86266>arrestará</color> si te ve afuera.
 Welcome to Gas-Mart=Bienvenido a Gas-Mart
 Great. It'll be <color\=#54E717>$75</color> for the week, ok?=Genial. Serían <color\=#54E717>$75</color> por semana. ¿Vale?
 Head back to the RV=Regresa a la autocaravana  
@@ -2896,10 +2897,10 @@ Well shit... that's not ideal.=Pues mierda... no es lo ideal.
 There's a powerful cartel in town, the <color\=#88CBFF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay un cártel poderoso en la ciudad. La <color\=#88CBFF>Familia Benzies</color>. Imaginé que eventualmente serían un problema, pero no pensé que te encontrarían tan rápido...
 Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#88CBFF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar tranquilo para quedarte un tiempo. Ve al <color\=#88CBFF>motel</color> y pregunta por una habitación.
 After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#88CBFF>grow tent, soil</color>, and <color\=#88CBFF>watering can.</color>=Después de eso, necesitarás equipo nuevo. Hay una ferretería al noreste del motel. Consigue una <color\=#88CBFF>carpa de cultivo, tierra</color>, y una <color\=#88CBFF>regadera.</color>
-There is a <color=#88CBFF>map</color> on your phone. Press <color=#88CBFF>M</color> to quickly open it.=Tienes un <color=#88CBFF>mapa</color> en tu teléfono. Presiona <color=#88CBFF>M</color> para abrirlo rápidamente.
+There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it.=Tienes un <color\=#88CBFF>mapa</color> en tu teléfono. Presiona <color\=#88CBFF>M</color> para abrirlo rápidamente.
 You're in a new town with no cash and no product. Get in contact with a distant relative and ask for some help.=Estás en una ciudad nueva, sin dinero ni producto. Contacta a un pariente lejano y pídele ayuda.
 Good evening=Buenas noches
-Looks like you've reached your <color=#4CB0FF>weekly deposit limit...</color> To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu <color=#4CB0FF>límite semanal de depósitos...</color> Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
+Looks like you've reached your <color\=#4CB0FF>weekly deposit limit...</color> To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=Parece que has alcanzado tu <color\=#4CB0FF>límite semanal de depósitos...</color> Para evitar levantar sospechas, solo puedes depositar cierta cantidad de dinero en efectivo cada semana a través de los cajeros automáticos.
 Wood coffee table. Good for placing coffee on.=Mesa de café de madera. Ideal para colocar una taza de café.
 A small sized, 4-tier storage rack.=Un estante de almacenamiento pequeño, de 4 niveles.
 1x1m metal table. You can place stuff on it.=Mesa metálica de 1x1 m. Puedes colocar cosas encima.
@@ -3154,7 +3155,7 @@ Ok whatever. What time?=Ok, lo que sea. Hora?
 Alright come on=Está bien, vamos  
 Morning mate, what can I get ya?=Buenos días, ¿qué te ofrezco?
 Package at least 3x weed=Empaqueta al menos 3x de marihuana.
-r:"^<color=#54E717>(+$\d+)</color> Curfew Bonus$"=<color=#54E717>$1</color> Bonificación por toque de queda
+r:"^<color\=#54E717>(+$\d+)</color> Curfew Bonus$"=<color\=#54E717>$1</color> Bonificación por toque de queda
 Curfew Bonus=Bonificación por toque de queda
 Customer expectations not met=Expectativas no cumplidas
 r:"^(\d+)% chance of customer accepting$"=$1% de probabilidad de éxito
@@ -3362,6 +3363,7 @@ Thanks. Hey, my friend Jane Lucero is a dealer and can help you move your produc
 ## OBJETOS ##
 Cheap Skateboard=Skateboard Barato
 Lightweight Skateboard=Skateboard Ligero
+Offroad Skateboard=Skateboard Todoterreno
 Table=Mesa
 
 ## TRADERS ##
@@ -3369,6 +3371,7 @@ That'll be <color\=#54E717>$500</color> for the Lightweight Skateboard. Sound go
 That'll be <color\=#54E717>$250</color> for the Skateboard. Sound good?=Serán <color\=#54E717>$250</color> por el Skateboard. ¿Te parece bien?
 That'll be <color\=#54E717>$250</color> for the Cruiser. Sound good?=Serán <color\=#54E717>$500</color> por el Skateboard Cruiser. ¿Te parece bien?
 That'll be <color\=#54E717>$500</color> for the Golden Skateboard. Sound good?=Serán <color\=#54E717>$1,500</color> por el Skateboard Dorado. ¿Te parece bien?
+That'll be <color\=#54E717>$1,500</color> for the Offroad Skateboard. Sound good?=Serán <color\=#54E717>$1,500</color> por el Skateboard Todoterreno. ¿Te parece bien?
 That'll be a <color\=#54E717>$2,000</color> signing free, and the employee's daily wage will be <color\=#54E717>$300</color>.=Tienes que pagar <color\=#54E717>$2,000</color> ahora y despues tienes que pagar <color\=#54E717>$300</color> diarios al empleado.
 
 ## OTROS ##
