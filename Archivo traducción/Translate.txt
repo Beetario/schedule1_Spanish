@@ -2060,6 +2060,7 @@ sr:"Hey, that drop is ready in (.+)$"=Oye, esa entrega está lista en $1.
 sr:"I need a dead drop:\n(\d+x) (.+)$"=<size=30>Necesito una entrega secreta:\n$1 $2</size>|
 I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que estás en problemas. Busca un teléfono público para que hablemos.\n- T.N.
 Copy. I'll message you when it's ready in about 5 hours.=Okay. Te enviaré un mensaje cuando esté listo dentro de 5 horas.
+Copy. I'll message you when it's ready in about 1 hour.=Okay. Te enviaré un mensaje cuando esté listo dentro de 1 hora.
 I need a dead drop:\n10x Low-Quality Pseudo=Necesito una entrega: Fármaco de baja calidad
 Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Heyo - Si estás buscando mercancia, ahora estoy haciendo entregas.\nen la aplicación de entregas para que compres y te llegue.
 Okay. I'll be in the west construction site for the next 6 hours.=Bueno. Estaré en el sitio de construcción del oeste dentro de 6 horas.
