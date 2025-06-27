@@ -3363,6 +3363,7 @@ Thanks. Hey, my friend Jane Lucero is a dealer and can help you move your produc
 ## OBJETOS ##
 Cheap Skateboard=Skateboard Barato
 Lightweight Skateboard=Skateboard Ligero
+Offroad Skateboard=Skateboard Todoterreno
 Table=Mesa
 
 ## TRADERS ##
@@ -3370,6 +3371,7 @@ That'll be <color\=#54E717>$500</color> for the Lightweight Skateboard. Sound go
 That'll be <color\=#54E717>$250</color> for the Skateboard. Sound good?=Serán <color\=#54E717>$250</color> por el Skateboard. ¿Te parece bien?
 That'll be <color\=#54E717>$250</color> for the Cruiser. Sound good?=Serán <color\=#54E717>$500</color> por el Skateboard Cruiser. ¿Te parece bien?
 That'll be <color\=#54E717>$500</color> for the Golden Skateboard. Sound good?=Serán <color\=#54E717>$1,500</color> por el Skateboard Dorado. ¿Te parece bien?
+That'll be <color\=#54E717>$1,500</color> for the Offroad Skateboard. Sound good?=Serán <color\=#54E717>$1,500</color> por el Skateboard Todoterreno. ¿Te parece bien?
 That'll be a <color\=#54E717>$2,000</color> signing free, and the employee's daily wage will be <color\=#54E717>$300</color>.=Tienes que pagar <color\=#54E717>$2,000</color> ahora y despues tienes que pagar <color\=#54E717>$300</color> diarios al empleado.
 
 ## OTROS ##
