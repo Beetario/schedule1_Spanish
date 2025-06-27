@@ -1313,7 +1313,7 @@ Drop seed into hole=Suelta la semilla en el agujero
 r:Click soil chunks to bury seed (.)/(.*)=Haz clic en los trozos de tierra para enterrar la semilla $1/$2
 Already contains seed=Ya contiene una semilla
 Water the seed=Riega la semilla
-Head to locker when you're ready=Ve al armario cuando estés listo
+Head to bed when you're ready=Ve a la cama cuando estés listo
 
 You can place cash in my locker.=Puedes colocar dinero en mi armario.
 
