@@ -3510,3 +3510,130 @@ U.N.=T.N.
 Offroad Skateboard=Skateboard Todoterreno
 That'll be <color\=#54E717>$1,500</color> for the Offroad Skateboard. Sound good?=Serán <color\=#54E717>$1,500</color> por el Skateboard Todoterreno. ¿Te parece bien?
 Copy. I'll message you when it's ready in about 1 hour.=Okay. Te enviaré un mensaje cuando esté listo dentro de 1 hora.
+
+
+##### Cartel ###
+
+Deal for Benzies Cartel=Trato para el Cártel Benzies
+sr:We need (\d+x) (.+?)\. You've got (\d+) days to get it to us\. Payment is \$(\d{1,3}(?:,\d{3})?).=Necesitamos $1 $2. Tienes $3 días para entregarlo. Pago $4.
+Drop off at Hyland Manor. Don't be late.=Entregar en Hyland Manor. No llegues tarde.
+sr:Deliver (\d+x) (.+?) to Hyland Manor=Entregue $1 $2 en Hyland Manor
+sr:Deal for Benzies Cartel\\n<color\=green>\((\d+) days, (\d+) hours remaining\)=Trato para el Cártel Benzies\n<color\=green>(quedan $1 d; $2 h.)
+sr:Deal for Benzies Cartel\\n<color\=green>\((\d+) day, (\d+) hours remaining\)=Trato para el Cártel Benzies\n<color\=green>(queda $1 día, $2 h.)
+sr:Deal for Benzies Cartel\\n<color\=#F7B119>\((\d+) hours remaining\)=Trato para el Cártel Benzies\n<color\=#F7B119>(quedan $1 h.)
+sr:Deal for Benzies Cartel\\n<color\=#F7B119>\((\d+) hour remaining\)=Trato para el Cártel Benzies\n<color\=#F7B119>(queda $1 h)
+You have failed to deliver on time. We're halving your payment. You've got 24 hours to get the product to us, otherwise our agreement is over.=No entregaste a tiempo. Estamos reduciendo tu pago a la mitad. Tienes 24 horas para traernos el producto, de lo contrario nuestro acuerdo termina.
+You're late. Our deadlines are not suggestions. You've got another 24 hours to deliver, and your payment is halved. Don't disappoint us.=Llegaste tarde. Nuestros plazos no son sugerencias. Tienes otras 24 horas para entregar y tu pago está reducido a la mitad. No nos decepciones.
+sr:Deal for Benzies Cartel\\n<color\=#FF5555>\(Overdue, (\d+) hours remaining\)</color>=Trato para el Cártel Benzies\n<color\=#FF5555>(Atrasado, quedan $1 h.)</color>
+Fulfill your ongoing obligation to the Benzies Cartel.=Cumple tu obligación vigente con el Cártel Benzies.
+
+
+Finishing the Job=Terminar el trabajo
+You've severely weakened the Benzies, but they'll continue to pester you until they're defeated. Time to take out the trash.=Has debilitado gravemente a los Benzies, pero seguirán molestándote hasta que sean derrotados. Es hora de sacar la basura.
+Well, sounds like you've been busy! You've got influence over nearly every corner of Hyland Point. I couldn't have done better myself, buddy. Well done.=Vaya, parece que has estado ocupado. Tienes influencia en casi cada rincón de Hyland Point. Yo mismo no lo habría hecho mejor, amigo. Bien hecho.
+You've hurt the Benzies pretty bad, but they ain't dealt with yet. They'll keep pestering you until they're wiped out.=Les has hecho bastante daño a los Benzies, pero aún no están acabados. Seguirán molestándote hasta que los aniquilemos.
+Thomas and the last of his goons are holed up in Hyland Manor. It's a well fortified old place, so attacking them head on is a death wish. Luckily, there might be another way...=Thomas y los últimos matones están atrincherados en Hyland Manor. Es un lugar antiguo bien fortificado, así que atacarlos de frente sería una sentencia de muerte. Por suerte, podría haber otra forma...
+There's an old <color\=#4CB0FF>escape tunnel</color> that runs from the manor down to the cliff face beneath it. It's sealed up from the inside, but if you could get access to it, you could get real close to them without their knowing...=Hay un viejo <color\=#4CB0FF>túnel de escape</color> que va desde la mansión hasta la pared del acantilado debajo. Está sellado desde dentro, pero si pudieras acceder a él, podrías acercarte mucho a ellos sin que lo noten...
+I say you treat these clowns to a taste of their own medicine. If you could plant a <color\=#4CB0FF>bomb</color> in that tunnel... well, safe to say they won't be a problem no more. =Te digo que les des a esos payasos una probada de su propia medicina. Si pudieras plantar una <color\=#4CB0FF>bomba</color> en ese túnel... bueno, se puede decir que ya no serán un problema. 
+A bomb of that size won't be easy to come by - go ask around <color\=#4CB0FF>Koyama Chemical Company</color> and see if someone can sneak you some raw explosives. After that, <color\=#4CB0FF>Stan</color>, the weapons dealer, should be able to wire it up to a usable bomb for you.=Una bomba de ese tamaño no será fácil de conseguir: pregunta por ahí en la <color\=#4CB0FF>Compañía Química Koyama</color> a ver si alguien puede conseguirte explosivos crudos. Después de eso, <color\=#4CB0FF>Stan</color>, el vendedor de armas, debería poder montarla y convertirla en una bomba utilizable para ti.
+You'll also need to get into that tunnel. <color\=#4CB0FF>Sam</color>, the local construction and demolition guy can probably help you out for the right price.=También tendrás que entrar en ese túnel. <color\=#4CB0FF>Sam</color>, el tipo local de construcción y demolición, probablemente pueda ayudarte por el precio adecuado.
+Time to take out the trash. Godspeed, buddy.=Es hora de sacar la basura. Buena suerte, amigo.
+
+
+Meet the stranger at the parking lot next to Taco Ticklers=Encuentra al desconocido en el estacionamiento junto a Taco Ticklers
+Wait for Sam to dig access to the tunnel=Espera a que Sam excave el acceso al túnel
+
+Talk to Billy at the chemical plant about buying explosives=Habla con Billy en la planta química sobre la compra de explosivos
+• Talk to Billy at the chemical plant about buying explosives=• Habla con Billy en la planta química sobre la compra de explosivos
+Theoretically, if someone needed explosives, could you help with that?=Teóricamente, si alguien necesitara explosivos, ¿podrías ayudar con eso?
+Hmmm... I guess there's some <color\=#FF6666>RDX</color> down at the plant. That would definitely get the job done.=Hmmm... Supongo que hay algo de <color\=#FF6666>RDX</color> en la planta. Eso definitivamente sería suficiente.
+Although you'd need some heavy paperwork to get your hands on any of that stuff. Unless we could work out a special deal... =Aunque necesitarías mucho papeleo para conseguir algo de eso. A menos que acordemos un trato especial...
+Let's say, <color\=#76C9FF>20 grams of the white stuff</color>. Pure - no additives or shit. You bring me that, and you've got your RDX.=Digamos, <color\=#76C9FF>20 gramos de la sustancia blanca</color>. Pura — sin aditivos ni mierdas. Me traes eso y tendrás tu RDX.
+I'll think about it=Lo pensaré
+Trade Billy 20x cocaine in return for RDX=Entrega a Billy 20x cocaína a cambio de RDX
+• Trade Billy 20x cocaine in return for RDX=• Entrega a Billy 20x cocaína a cambio de RDX
+I've got what you asked for.=Tengo lo que pediste.
+Thanks, here's your RDX.=Gracias, aquí tienes tu RDX.
+RDX=RDX
+An organic explosive compound. Common ingredient for military-grade explosives.=Un compuesto explosivo orgánico. Ingrediente común en explosivos de grado militar.
+
+
+Talk to Stan about turning the RDX into a bomb=Habla con Stan sobre convertir el RDX en una bomba
+• Talk to Stan about turning the RDX into a bomb=• Habla con Stan sobre convertir el RDX en una bomba
+Can you wire up some explosives for me?=¿Puedes montar unos explosivos para mí?
+Sure I can, friend. But I've got a little favour to ask in return...=Claro que sí, amigo. Pero tengo un pequeño favor que pedirte a cambio...
+You see, I get my supplies in every month through a shipment at the docks. But recently, some rat bastard keeps nabbin' them before they get to me.=Verás, recibo mis suministros cada mes mediante un envío en los muelles. Pero últimamente un desgraciado se los arrebata antes de que lleguen a mí.
+I see him skulking around the docks at night every now and them. He needs to go. You do that for me, and I'll wire up anything you need.=Lo veo merodeando por los muelles por la noche de vez en cuando. Ese tiene que desaparecer. Haz eso por mí y montaré cualquier cosa que necesites.
+Why not just deal with him yourself?=¿Por qué no te encargas tú mismo de él?
+Sure=Claro
+I'm a man of God, my friend. "Thou shalt not kill" - Exodus 20:13=Soy un hombre de Dios, amigo. "No matarás" - Éxodo 20:13.
+Alright...=Está bien...
+Thanks, partner. Come let me know when it's done.=Gracias, compañero. Avísame cuando esté hecho.
+Kill the thief who keeps stealing Stan's supplies. He is often seen at the docks at night.=Mata al ladrón que sigue robando los suministros de Stan. A menudo se le ve en los muelles por la noche.
+• Kill the thief who keeps stealing Stan's supplies. He is often seen at the docks at night.=• Mata al ladrón que sigue robando los suministros de Stan. A menudo se le ve en los muelles por la noche.
+Talk to Stranger=Habla con el desconocido
+
+Get Stan to turn the RDX into a bomb=Haz que Stan convierta el RDX en una bomba
+• Get Stan to turn the RDX into a bomb=• Haz que Stan convierta el RDX en una bomba
+I dealt with the thief who kept stealing your supplies.=Me encargué del ladrón que seguía robando tus suministros.
+Buddy, you are a lifesaver - thanks for taking care of that. Now let me hold up my end of the bargain...=Amigo, eres un salvavidas - gracias por encargarte de eso. Ahora déjame cumplir con mi parte del trato...
+[Hand over RDX]=[Entregar RDX]
+NO RDX IN INVENTORY=NO HAY RDX EN EL INVENTARIO
+Woowee, this is some serious stuff, partner. Don't worry, I won't be askin' what it's for. Give me one sec...=¡Uuuh, esto es material serio, compañero. No te preocupes, no voy a preguntar para qué es. Dame un segundo...
+...and there you are - one bigass bomb. It's on a 45 second timer. Make sure you're not anywhere near it when it goes off.=...y ahí la tienes - una bomba enorme. Tiene un temporizador de 45 segundos. Asegúrate de no estar cerca cuando explote.
+Bomb=Bomba
+Improvised, yet powerful explosive device.=Dispositivo explosivo improvisado pero potente.
+Plant bomb=Colocar
+
+...existing code...
+Get Sam to dig access to the tunnel under Hyland Manor=Haz que Sam excave el acceso al túnel bajo Hyland Manor
+• Get Sam to dig access to the tunnel under Hyland Manor=• Haz que Sam excave el acceso al túnel bajo Hyland Manor
+I need access to the tunnel under Hyland Manor=Necesito acceso al túnel bajo Hyland Manor
+I can do that, but digging holes on other people's property isn't exactly legal. That sort of job is gonna cost a premium.=Puedo hacerlo, pero cavar hoyos en la propiedad de otros no es exactamente legal. Ese tipo de trabajo va a costar bastante.
+Let's say <color\=#54E717>$10,000</color> in cash, and I can get it done for you overnight.=Digamos, <color\=#54E717>$10,000</color> en efectivo, y puedo hacerlo durante la noche.
+Thank you - I'll get to work tonight. It should be done by tomorrow morning.=Gracias. Me pondré a trabajar esta noche. Debería estar listo para mañana por la mañana.
+The job is done. The entry point is on the cliff face directly below the north side of the house.=Trabajo hecho. El punto de entrada está en la pared del acantilado justo debajo del lado norte de la casa.
+
+Wait for the bomb to detonate=Espera a que la bomba detone
+Plant the bomb under Hyland Manor=Coloca la bomba bajo Hyland Manor
+Deliver X to Hyland Manor=Entrega X en Hyland Manor
+
+
+Reduce cartel influence in Northtown to \n\n\nto unlock this region=Reduce la influencia del cártel en Northtown a \n\n\n para desbloquear esta región
+Reduce cartel influence in Westville to \n\n\nto unlock this region=Reduce la influencia del cártel en Westville a \n\n\n para desbloquear esta región
+Reduce cartel influence in Downtown to \n\n\nto unlock this region=Reduce la influencia del cártel en Downtown a \n\n\n para desbloquear esta región
+Reduce cartel influence in Docks to \n\n\nto unlock this region=Reduce la influencia del cártel en Docks a \n\n\n para desbloquear esta región
+Reduce cartel influence in Suburbia to\n\n\nto unlock this region=Reduce la influencia del cártel en Suburbia a \n\n\n para desbloquear esta región
+Reduce cartel influence in Uptown to \n\n\nto unlock this region=Reduce la influencia del cártel en Uptown a \n\n\n para desbloquear esta región
+
+Reduce cartel influence by unlocking customers, defeating ambushes, interrupting cartel deals, and drawing graffiti in this region.=Reduce la influencia del cártel desbloqueando clientes, derrotando emboscadas, interrumpiendo tratos del cártel y pintando grafitis en esta región.
+
+Cartel influence in Northtown=Influencia del cártel en Northtown
+Cartel influence in Westville=Influencia del cártel en Westville
+Cartel influence in Downtown=<size\=14%>Influencia del cártel en Downtown</size>
+Cartel influence in Docks=Influencia del cártel en Docks
+Cartel influence in Suburbia=<size\=14%>Influencia del cártel en Suburbia</size>
+Cartel influence in Uptown=Influencia del cártel en Uptown
+
+
+Benzies' Influence In Northtown=Influencia de los Benzies en Northtown
+Benzies' Influence In Westville=Influencia de los Benzies en Westville
+Benzies' Influence In Downtown=Influencia de los Benzies en Downtown
+Benzies' Influence In Docks=Influencia de los Benzies en Docks
+Benzies' Influence In Suburbia=Influencia de los Benzies en Suburbia
+Benzies' Influence In Uptown=Influencia de los Benzies en Uptown
+
+Benzies' Influence in Northtown=Influencia de los Benzies en Northtown
+Benzies' Influence in Westville=Influencia de los Benzies en Westville
+Benzies' Influence in Downtown=Influencia de los Benzies en Downtown
+Benzies' Influence in Docks=Influencia de los Benzies en Docks
+Benzies' Influence in Suburbia=Influencia de los Benzies en Suburbia
+Benzies' Influence in Uptown=Influencia de los Benzies en Uptown
+
+...existing code...
+Well shit... that's not ideal.=Vaya mierda... esto está fatal.
+There's a powerful cartel in town, the <color\=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=En la ciudad opera un poderoso cártel, la <color\=#4CB0FF>Familia Benzies.</color> Pensé que acabarían siendo un problema, pero no creí que te encontrarían tan pronto...
+Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#4CB0FF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar discreto para quedarte un tiempo.\nVe al <color\=#4CB0FF>motel</color> y pregunta por alquilar una habitación.
+After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#4CB0FF>grow tent, soil</color>, and <color\=#4CB0FF>watering can.</color>=Después de eso, necesitarás nuevo equipo.\nAl noreste del motel hay una ferretería. Consigue una <color\=#4CB0FF>carpa de cultivo, tierra</color> y una <color\=#4CB0FF>regadera.</color>
+
+
