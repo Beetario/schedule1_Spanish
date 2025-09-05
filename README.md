@@ -20,4 +20,4 @@ Siéntete en la libertad de reportar malas traducciones o faltantes, enviando pa
 
 Beetar.
 
-Gracias https://buymeacoffee.com/beetar ❤
+Gracias [https://buymeacoffee.com/beetar](https://buymeacoffee.com/beetar) ❤
