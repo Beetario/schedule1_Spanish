@@ -361,6 +361,7 @@ Sleep=Dormir
 Email (Optional)=Correo Electrónico (Opcional)
 Stop the arrow in the green area to unlock item=Detén la flecha en el área verde para desbloquear el objeto
 r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=DESBLOQUEA UNA DE LAS CONEXIONES DE $1
+r:UNLOCK ONE OF (.*)'S CONNECTIONS=DESBLOQUEA UNA DE LAS CONEXIONES DE $1
 Packaging=Empaque
 Provide ingredients then select recipe=Proporciona los ingredientes y luego selecciona la receta
 CONSOLE >=CONSOLE >
@@ -1205,7 +1206,8 @@ Place cash in the briefcase on the cleaner's locker=Coloca dinero en el maletín
 Learn how to manage packagers.=Aprende cómo gestionar embaladores.
 Use the management clipboard to assign the packager to a locker=Usa la carpeta de gestión para asignar un armario al embalador.
 Assign a packaging station to the packager=Asigna una estación de embalaje al embalador.
-Place cash in the briefcase on the packager's locker=Coloca dinero en el maletín en el armario del embalador.
+Place cash in the ^(.+)'s locker=Coloca dinero en el locker de $1
+
 r:Pots/Drying Racks (.*)=Macetas/Estantes de Secado $1
 Select=Seleccionar
 Select Supplies Source=Seleccionar Fuente de Suministros
@@ -1314,7 +1316,6 @@ r:Click soil chunks to bury seed (.)/(.*)=Haz clic en los trozos de tierra para 
 Already contains seed=Ya contiene una semilla
 Water the seed=Riega la semilla
 Head to locker when you're ready=Ve al armario cuando estés listo
-Head to bed when you're ready=Ve a la cama cuando estés listo
 You can place cash in my locker.=Puedes colocar dinero en mi armario.
 
 There is a pot ready for sowing, but I don't have any seeds for it.=Hay una maceta lista para sembrar, pero no tengo semillas para ella.
@@ -1726,6 +1727,7 @@ Go to Gas-Mart=Ve al Gas-Mart
 Purchase at least one mixing ingredient=Compra al menos un ingrediente para mezclar
 r:Working on it. Should be ready in around (\d+) hours (\d+) min=Trabajando en esto. Debería estar listo en alrededor de $1 Hs $2 Mins
 r:Working on it. Should be ready in around (\d+) hours=Trabajando en esto. Debería estar listo en alrededor de $1 Hs
+r:Working on it. Should be ready in around (\d+) mins=Trabajando en esto. Debería estar listo en alrededor de $1 m
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=OK. Te avisaré cuando esté listo. Debería ser en $1 Hs $2 Min
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours=Ok. Te avisaré cuando esté listo. Debería ser en $1 Hs
 You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.= Puedes saldar tu deuda colocando dinero en mi escondite. Está detrás de la Ferretería de Dan.
@@ -2493,7 +2495,8 @@ r:(.*), Behind the Post Office=$1, Detrás de la oficina de correos
 r:(.*), Behind the dealership=$1, Detrás del concesionario  
 r:(.*), Next to the courthouse=$1, Junto al juzgado  
 r:(.*), Behind Handy Hanks's=$1, Detrás de los artículos de Handy Hanks  
-r:(.*), Central canal=$1, Canal central  
+r:(.*), Central canal=$1, Canal central
+r:(.*), behind Thompson Construction.=$1, Detrás de la construcción Thompson
 r:(.*), In the parking garage next to the casino=$1, En el estacionamiento junto al casino  
 
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibido <color\=#54E717>$$${1}</color> en efectivo. Tu deuda ahora es de <color\=#54E717>$$${2}</color>
@@ -3630,10 +3633,9 @@ Benzies' Influence in Docks=Influencia de los Benzies en Docks
 Benzies' Influence in Suburbia=Influencia de los Benzies en Suburbia
 Benzies' Influence in Uptown=Influencia de los Benzies en Uptown
 
-...existing code...
 Well shit... that's not ideal.=Vaya mierda... esto está fatal.
 There's a powerful cartel in town, the <color\=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=En la ciudad opera un poderoso cártel, la <color\=#4CB0FF>Familia Benzies.</color> Pensé que acabarían siendo un problema, pero no creí que te encontrarían tan pronto...
 Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#4CB0FF>motel</color> and ask about getting a room.=Parece que vas a necesitar un lugar discreto para quedarte un tiempo.\nVe al <color\=#4CB0FF>motel</color> y pregunta por alquilar una habitación.
 After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#4CB0FF>grow tent, soil</color>, and <color\=#4CB0FF>watering can.</color>=Después de eso, necesitarás nuevo equipo.\nAl noreste del motel hay una ferretería. Consigue una <color\=#4CB0FF>carpa de cultivo, tierra</color> y una <color\=#4CB0FF>regadera.</color>
-
-
+Head to bed when you're ready=Ve a la cama cuando estés listo
+Hey, the Benzies just robbed me - they came outta nowhere and I wasn't able to defend myself. They got everything, sorry boss...=Oye, los Benzies me acaban de robar - aparecieron de la nada y no pude defenderme. Se llevaron todo, lo siento jefe...
