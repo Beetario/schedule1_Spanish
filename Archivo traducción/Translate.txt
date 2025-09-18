@@ -326,6 +326,7 @@ Choose who to summon=Elige a quién llamas
 Lights=Luces
 r:\+\$(\d{1,3}(?:,\d{3})*)\sBonus=\+\$$1 Bonificación
 NOW AVAILABLE:=AHORA DISPONIBLE:
+NOW AVAILABLE=AHORA DISPONIBLE
 Complete Deal=Completar Trato
 Product=Producto
 Agriculture=Agricultura
@@ -801,6 +802,7 @@ Good morning=Buenos días
 CUSTOMER RECENTLY COMPLETED A DEAL=RECIENTEMENTE COMPLETÓ UN NEGOCIO
 ALREADY RECENTLY OFFERED=YA OFRECIDO RECIENTEMENTE
 You wanna buy something? [Offer a deal]=¿Quieres comprar algo? [Ofrecer un trato]
+You wanna buy something?=¿Quieres comprar algo?
 Knock=Llamar
 Hi=Hola
 Hello=Hola
@@ -1734,7 +1736,7 @@ You can pay off your debt by placing cash in my stash. It's behind Dan's Hardwar
 I need to order a dead drop=Necesito hacer un pedido secreto
 Cancel=Cancelar
 Send Message=Enviar Mensaje
-r:Just reminding you that you owe me \$(\d{1,3}(?:,\d{3})*). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $1. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
+r:Just reminding you that you owe me <color\=#5DD642>\$(\d{1,3}(?:,\d{3})*)</color>. Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes <color\=#5DD642>$1</color>. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
 The drop is ready. You can find it behind the western Gas-Mart=La entrega está lista. Puedes encontrarla detrás del Gas-Mart occidental
 Open shutters=Abrir persiana
 Close shutters=Cerrar persiana
@@ -2103,6 +2105,7 @@ Mixing in progress= Mezcla en progreso
 Contains items= Contiene artículos
 Outpot slot is full!= ¡La ranura de salida está llena!
 Where is my room?= ¿Dónde está mi habitación?
+You wanna buy something?=¿Quieres comprar algo?
 Let me try...= Déjame intentar...
 I'd like to purchase a vehicle= Me gustaría comprar un vehículo
 Bye= Adiós
@@ -3586,7 +3589,6 @@ Bomb=Bomba
 Improvised, yet powerful explosive device.=Dispositivo explosivo improvisado pero potente.
 Plant bomb=Colocar
 
-...existing code...
 Get Sam to dig access to the tunnel under Hyland Manor=Haz que Sam excave el acceso al túnel bajo Hyland Manor
 • Get Sam to dig access to the tunnel under Hyland Manor=• Haz que Sam excave el acceso al túnel bajo Hyland Manor
 I need access to the tunnel under Hyland Manor=Necesito acceso al túnel bajo Hyland Manor
@@ -3637,3 +3639,15 @@ Looks like you're gonna need somewhere low key to stay for a while. Head over to
 After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#4CB0FF>grow tent, soil</color>, and <color\=#4CB0FF>watering can.</color>=Después de eso, necesitarás nuevo equipo.\nAl noreste del motel hay una ferretería. Consigue una <color\=#4CB0FF>carpa de cultivo, tierra</color> y una <color\=#4CB0FF>regadera.</color>
 Head to bed when you're ready=Ve a la cama cuando estés listo
 Hey, the Benzies just robbed me - they came outta nowhere and I wasn't able to defend myself. They got everything, sorry boss...=Oye, los Benzies me acaban de robar - aparecieron de la nada y no pude defenderme. Se llevaron todo, lo siento jefe...
+
+You might've noticed you can buy different weed seed strains from Albert, but you can create even more unique products with a <color\=#4CB0FF>mixing station</color>.=Puede que hayas notado que puedes comprar distintas variedades de semillas de marihuana a Albert, pero puedes crear productos aún más únicos con una <color\=#4CB0FF>estación de mezcla</color>.
+At a <color\=#4CB0FF>mixing station</color>, you mix products with special <color\=#4CB0FF>ingredients</color> to create new mixes with <color\=#4CB0FF>unique effects</color>. Customers will pay more for these products.=En una <color\=#4CB0FF>estación de mezcla</color>, mezclas productos con <color\=#4CB0FF>ingredientes</color> especiales para crear nuevas mezclas con <color\=#4CB0FF>efectos únicos</color>. Los clientes pagarán más por estos productos.
+To get started, go purchase a <color\=#4CB0FF>mixing station</color> from Dan's hardware. After that, you'll want to grab something to mix with your weed from the local Gas-Mart.=Para empezar, compra una <color\=#4CB0FF>estación de mezcla</color> en la ferretería de Dan. Después, querrás conseguir algo para mezclar con tu marihuana en el Gas-Mart local.
+
+Unfavourable Agreements=Acuerdos desfavorables
+I have a business proposition i would like to discuss with you. Meet me at the parking lot next to Taco Ticklers. I'll be in the black SUV.=Tengo una propuesta de negocio que me gustaría discutir contigo. Encuéntrame en el estacionamiento junto a Taco Ticklers. Estaré en la SUV negra.
+You wanted to meet?=¿Querías reunirte?
+Ah, it's you... I'm Thomas. I believe we share a similar line of work.=Ah, eres tú... Soy Thomas. Creo que compartimos una línea de trabajo similar.
+Hey, I defended myself against some Benzies goons. No product or cash lost.=Oye, me defendí de unos matones de los Benzies. No perdí producto ni efectivo.
+Region Unavailable=Región no disponible
+While working with the cartel=Mientras trabajas con el cártel
