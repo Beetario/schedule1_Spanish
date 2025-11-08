@@ -1,7 +1,7 @@
 # Traducción al español del juego Schedule I
 Al no existir por ahora una traducción oficial por parte de los desarrolladores, se ha decidido buscar todas las palabras y frases que están en el juego y traducirlas al español.
 
-:point_right:  [Ultima versión](https://github.com/Beetario/schedule1_Spanish/archive/refs/heads/main.zip) :point_left:
+:point_right:  [Nuevas actualizaciones únicamente por Membresía VIP ](https://buymeacoffee.com/beetar/membership) :point_left:
 
 # 🔰 Versión MelonLoader
 
